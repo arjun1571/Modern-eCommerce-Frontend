@@ -9,7 +9,7 @@
 <h3 align="center">🛍️ 🛒 Next.js 15 Modern-eCommerce-Frontend — Modern Full-Stack Online Store</h3>
 </div>
 
-<div>
+<div >
 This project is a full-featured eCommerce frontend built with Next.js 15 (App Router) and Tailwind CSS, delivering a fast, responsive, and SEO-optimized shopping experience. It follows clean code practices, React Hooks for reusable logic, and form validation powered by Yup for reliability.
 
 🛍️ User Features
@@ -35,3 +35,16 @@ Stock Management: Real-time stock updates with alerts for low inventory.
 Employee Performance: Reports showing how many orders each employee hand
 
 </div>
+
+## 🔗 Project Demo & Source Code
+
+🚀 **Live Demo**: [Click here to view the project](https://naviforce.com.bd/)
+
+🚀 **Live Demo Dashboard**: [Click here to view the project](https://bikretabm.myei.app/)
+
+#### Admin Login
+
+- Email: toukir@gmail.com
+- Password: 123456
+
+---
