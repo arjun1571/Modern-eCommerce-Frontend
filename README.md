@@ -72,19 +72,16 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 
 ---
 
-## 🖥️ Frontend Showcase
-
-| Page               | Screenshot                                                 |
-| ------------------ | ---------------------------------------------------------- |
-| 🏠 Home Page       | ![Home Page](./assets/screenshot/home.png)                 |
-| 🛍️ Shop Page       | ![Shop Page](./assets/screenshot/category.png)             |
-| 📦 Product Details | ![Product Details](./assets/screenshot/productDetails.png) |
-| 🛒 Cart Page       | ![Cart Page](./assets/screenshot/shopCart.JPG)             |
-| 💳 Checkout Page   | ![Checkout Page](./assets/screenshot/checkout.png)         |
-| 📊 Cart Drawer     | ![Cart Drawer](./assets/screenshot/cartDrawer.png)         |
-| 📦 Received Order  | ![Received Order](./assets/screenshot/receivedOrder.png)   |
-| 🔑 Verify OTP      | ![Verify OTP](./assets/screenshot/otp.png)                 |
-| 👤 My Account      | ![My Account](./assets/screenshot/myAccount.png)           |
-| 📝 Update Account  | ![Update Account](./assets/screenshot/updateAccount.png)   |
-
----
+Frontend showcase
+| Page | Screenshot |
+| ----------------------------- | ------------------------------------------------------------- |
+| 🏠 Home-Page | ![Home Page](./asstes/screenshot/home.png) |
+| 🛍️ Shop Page | ![Shop Page](./asstes/screenshot/category.png) |
+| 📦 Product Details | ![Product Details](./asstes/screenshot/productDetails.png) |
+| 🛒 Cart Page | ![Cart Page](./asstes/screenshot/shopCart.JPG) |
+| 💳 Checkout Page | ![Checkout Page](./asstes/screenshot/checkout.png) |
+| 📊 Cart Drawer | ![Cart Drawer](./asstes/screenshot/cartDrawer.png) |
+| 📊 Received Order | ![Received Order](./asstes/screenshot/recivedOrder.png) |
+| 📷 Verify Otp | ![Verify Otp ](./asstes/screenshot/otp.png) |
+| 📷 My Account | ! [My Account ](./asstes/screenshot/myAccount.png) |
+| 🗂️ Update Account | ![Update Account](./asstes/screenshot/updateAccount.png) |
