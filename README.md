@@ -71,3 +71,7 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 - **Password:** `123456`
 
 ---
+
+| Page         | Screenshot                                 |
+| ------------ | ------------------------------------------ |
+| 🏠 Home Page | ![Home Page](./asstes/screenshot/home.png) |
