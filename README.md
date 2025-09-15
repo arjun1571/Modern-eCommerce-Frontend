@@ -9,42 +9,65 @@
 <h3 align="center">🛍️ 🛒 Next.js 15 Modern-eCommerce-Frontend — Modern Full-Stack Online Store</h3>
 </div>
 
-<div >
-This project is a full-featured eCommerce frontend built with Next.js 15 (App Router) and Tailwind CSS, delivering a fast, responsive, and SEO-optimized shopping experience. It follows clean code practices, React Hooks for reusable logic, and form validation powered by Yup for reliability.
+---
 
-🛍️ User Features
+## 📖 About the Project
 
-Authentication UI: Login & registration forms with React Hook Form + Yup validation.
+This project is a **full-featured eCommerce platform** built with **Next.js 15 (App Router)** and **Tailwind CSS**, delivering a **fast, responsive, and SEO-optimized shopping experience**.
 
-Product Pages: Dynamic product listings, search & filtering, and detailed product descriptions with CKEditor 5.
+It follows **clean code practices**, leverages **React Hooks for reusable logic**, and uses **Yup validation** for reliable forms.
 
-Cart & Checkout: Interactive shopping cart and Razorpay-ready checkout interface.
+---
 
-Media Handling: Image upload & preview powered by Cloudinary.
+## 🛍️ User Features
 
-📊 Admin Dashboard Features
+- 🔐 **Authentication UI**: Login & Registration (React Hook Form + Yup Validation)
+- 🛒 **Product Pages**: Dynamic product listings, search & filtering, rich descriptions with **CKEditor 5**
+- 🛍️ **Cart & Checkout**: Interactive shopping cart & Razorpay-ready checkout interface
+- 🖼️ **Media Handling**: Image upload & preview powered by **Cloudinary**
 
-Product Management: Add, edit, and update products with stock tracking.
+---
 
-Order Management: View and manage customer orders with courier booking integration.
+## 📊 Admin Dashboard Features
 
-Profit & Reports: Visual reports for sales, profits, and stock insights.
+- 📦 **Product Management**: Add, edit, and update products with stock tracking
+- 📑 **Order Management**: View & manage customer orders with courier booking integration
+- 📈 **Profit & Reports**: Visual reports for sales, profits, and stock insights
+- 📊 **Stock Management**: Real-time stock updates with alerts for low inventory
+- 👥 **Employee Performance**: Reports showing how many orders each employee handled
 
-Stock Management: Real-time stock updates with alerts for low inventory.
+---
 
-Employee Performance: Reports showing how many orders each employee hand
+## 🔑 Role-Based Permissions
 
-</div>
+The Admin Dashboard supports **role-based access control (RBAC)**:
+
+- **👑 Admin**
+
+  - Full access to all features (products, orders, reports, employees, roles)
+  - Can assign roles to Team Leaders & Team Members
+
+- **🧑‍💼 Team Leader**
+
+  - Manage orders assigned to their team
+  - Monitor team performance & submit reports
+  - Limited product & stock management
+
+- **👨‍🔧 Team Member**
+  - Handle assigned orders & update statuses
+  - View personal performance metrics
+  - No access to product/stock/role management
+
+---
 
 ## 🔗 Project Demo & Source Code
 
-🚀 **Live Demo**: [Click here to view the project](https://naviforce.com.bd/)
+🚀 **Live Demo (Frontend)**: [Click here to view](https://naviforce.com.bd/)  
+🚀 **Live Demo (Admin Dashboard)**: [Click here to view](https://bikretabm.myei.app/)
 
-🚀 **Live Demo Dashboard**: [Click here to view the project](https://bikretabm.myei.app/)
+#### 🧑‍💻 Admin Login Credentials
 
-#### Admin Login
-
-- Email: toukir@gmail.com
-- Password: 123456
+- **Email:** `toukir@gmail.com`
+- **Password:** `123456`
 
 ---
