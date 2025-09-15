@@ -74,15 +74,15 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 
 ## 🖥️ Frontend Showcase
 
-| Page               | Screenshot                                                 |
-| ------------------ | ---------------------------------------------------------- |
-| 🏠 Home-Page       | ![Home Page](./asstes/screenshot/home.png)                 |
-| 🛍️ Shop Page       | ![Shop Page](./asstes/screenshot/category.png)             |
-| 📦 Product Details | ![Product Details](./asstes/screenshot/productDetails.png) |
-| 🛒 Cart Page       | ![Cart Page](./asstes/screenshot/shopCart.JPG)             |
-| 💳 Checkout Page   | ![Checkout Page](./asstes/screenshot/checkout.png)         |
-| 📊 Cart Drawer     | ![Cart Drawer](./asstes/screenshot/cartDrawer.png)         |
-| 📦 Received Order  | ![Received Order](./asstes/screenshot/recivedOrder.png)    |
-| 🔑 Verify OTP      | ![Verify Otp ](./asstes/screenshot/otp.png)                |
-| 👤 My Account      | ! [My Account ](./asstes/screenshot/myAccount.png)         |
-| 📝 Update Account  | ![Update Account](./asstes/screenshot/updateAccount.png)   |
+| Page               | Screenshot                                                  |
+| ------------------ | ----------------------------------------------------------- |
+| 🏠 Home-Page       | ! [Home Page](./asstes/screenshot/home.png)                 |
+| 🛍️ Shop Page       | ! [Shop Page](./asstes/screenshot/category.png)             |
+| 📦 Product Details | ! [Product Details](./asstes/screenshot/productDetails.png) |
+| 🛒 Cart Page       | ! [Cart Page](./asstes/screenshot/shopCart.JPG)             |
+| 💳 Checkout Page   | ! [Checkout Page](./asstes/screenshot/checkout.png)         |
+| 📊 Cart Drawer     | ! [Cart Drawer](./asstes/screenshot/cartDrawer.png)         |
+| 📦 Received Order  | ! [Received Order](./asstes/screenshot/recivedOrder.png)    |
+| 🔑 Verify OTP      | ! [Verify Otp ](./asstes/screenshot/otp.png)                |
+| 👤 My Account      | ! [My Account ](./asstes/screenshot/myAccount.png)          |
+| 📝 Update Account  | ! [Update Account](./asstes/screenshot/updateAccount.png)   |
