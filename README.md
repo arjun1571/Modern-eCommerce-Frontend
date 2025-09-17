@@ -92,7 +92,7 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 | Page                 | Screenshot                                                           |
 | -------------------- | -------------------------------------------------------------------- |
 | 🏠 Dashboard         | ![Dashboard](./asstes/adminDashboard/order.JPG)                      |
-| 🛍️ Orders            | ![Orders](./assets/adminDashboard/order.JPG)                         |
+| 🛍️ Orders            | ![Orders](./asstes/adminDashboard/order.JPG)                         |
 | 🛍️ View Order        | ![View Order](./assets/adminDashboard/viewOrder.JPG)                 |
 | 📦 Incomplete Orders | ![Incomplete Orders](./assets/adminDashboard/incompleteOrder.JPG)    |
 | 🛒 Report Issue      | ![Report Issue](./assets/adminDashboard/reportIssue.JPG)             |
