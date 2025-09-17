@@ -86,3 +86,23 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 | 🔑 Verify OTP      | ![Verify Otp ](./asstes/screenshot/otp.png)                |
 | 👤 My Account      | ![My Account ](./asstes/screenshot/myAccount.png)          |
 | 📝 Update Account  | ![Update Account](./asstes/screenshot/updateAccount.png)   |
+
+## 🖥️ Admin Dashboard Showcase
+
+| Page                    | Screenshot                                                          |
+| ----------------------- | ------------------------------------------------------------------- |
+| 🏠 Dashboard            | ![Dashboard](./asstes/adminDashboard/dashboard.JPG)                 |
+| 🛍️ Orders               | ![Orders Page](./asstes/adminDashboard/order.JPG)                   |
+| 🛍️ View Order           | ![Orders Page](./asstes/adminDashboard/viewOrder.JPG)               |
+| 📦 Incomplete Orders    | ![Product Details](./asstes/adminDashboard/incompleateOrder.JPG)    |
+| 🛒 Report Issue         | ![Cart Page](./asstes/adminDashboard//reportIssue.JPG)              |
+| 💳 Product              | ![Checkout Page](./asstes/adminDashboard/productList.JPG)           |
+| 📊 Add Product          | ![Cart Drawer](./asstes/adminDashboard/addProduct.JPG)              |
+| 📦 Product Category     | ![Received Order](./asstes/adminDashboard//ProductCategoryList.JPG) |
+| 🔑 Product Brand        | ![Verify Otp ](./asstes/adminDashboard/productBrand.JPG)            |
+| 👤 Fraud Customer Check | ![My Account ](./asstes/adminDashboard/froudCheck.JPG)              |
+| 📝 Courier Booking      | ![Update Account](./asstes/adminDashboard/courierBooking.JPG)       |
+| 📝 Courier Report       | ![Update Account](./asstes/adminDashboard/courierReport.JPG)        |
+| 📝 Team                 | ![Update Account](./asstes/adminDashboard/team.JPG)                 |
+| 📝 Permission           | ![Update Account](./asstes/adminDashboard/permission.JPG)           |
+| 📝 Product Report       | ![Update Account](./asstes/adminDashboard/productReport.JPG)        |
