@@ -93,16 +93,16 @@ The Admin Dashboard supports **role-based access control (RBAC)**:
 | -------------------- | -------------------------------------------------------------------- |
 | 🏠 Dashboard         | ![Dashboard](./asstes/adminDashboard/order.JPG)                      |
 | 🛍️ Orders            | ![Orders](./asstes/adminDashboard/order.JPG)                         |
-| 🛍️ View Order        | ![View Order](./assets/adminDashboard/viewOrder.JPG)                 |
-| 📦 Incomplete Orders | ![Incomplete Orders](./assets/adminDashboard/incompleteOrder.JPG)    |
-| 🛒 Report Issue      | ![Report Issue](./assets/adminDashboard/reportIssue.JPG)             |
-| 💳 Product List      | ![Product List](./assets/adminDashboard/productList.JPG)             |
-| 📊 Add Product       | ![Add Product](./assets/adminDashboard/addProduct.JPG)               |
-| 📦 Product Category  | ![Product Category](./assets/adminDashboard/ProductCategoryList.JPG) |
-| 🔑 Product Brand     | ![Product Brand](./assets/adminDashboard/productBrand.JPG)           |
-| 👤 Fraud Check       | ![Fraud Check](./assets/adminDashboard/fraudCheck.JPG)               |
-| 🚚 Courier Booking   | ![Courier Booking](./assets/adminDashboard/courierBooking.JPG)       |
-| 📑 Courier Report    | ![Courier Report](./assets/adminDashboard/courierReport.JPG)         |
-| 👥 Team              | ![Team](./assets/adminDashboard/team.JPG)                            |
-| 🔐 Permission        | ![Permission](./assets/adminDashboard/permission.JPG)                |
-| 📈 Product Report    | ![Product Report](./assets/adminDashboard/productReport.JPG)         |
+| 🛍️ View Order        | ![View Order](./asstes/adminDashboard/viewOrder.JPG)                 |
+| 📦 Incomplete Orders | ![Incomplete Orders](./asstes/adminDashboard/incompleateOrder.JPG)   |
+| 🛒 Report Issue      | ![Report Issue](./asstes/adminDashboard/reportIssue.JPG)             |
+| 💳 Product List      | ![Product List](./asstes/adminDashboard/productList.JPG)             |
+| 📊 Add Product       | ![Add Product](./asstes/adminDashboard/productList.JPG)              |
+| 📦 Product Category  | ![Product Category](./asstes/adminDashboard/ProductCategoryList.JPG) |
+| 🔑 Product Brand     | ![Product Brand](./asstes/adminDashboard/ProductCategoryList.JPG)    |
+| 👤 Fraud Check       | ![Fraud Check](./asstes/adminDashboard/froudCheck.JPG)               |
+| 🚚 Courier Booking   | ![Courier Booking](./asstes/adminDashboard/courierBooking.JPG)       |
+| 📑 Courier Report    | ![Courier Report](./asstes/adminDashboard/courierReport.JPG)         |
+| 👥 Team              | ![Team](./asstes/adminDashboard/team.JPG)                            |
+| 🔐 Permission        | ![Permission](./asstes/adminDashboard/permission.JPG)                |
+| 📈 Product Report    | ![Product Report](./asstes/adminDashboard/productReport.JPG)         |
